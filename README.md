@@ -1,2 +1,2 @@
 # tcp_proxy_async
-TCP Proxy with async mechanism
+TCP Proxy with Boost coroutine & async mechanism
